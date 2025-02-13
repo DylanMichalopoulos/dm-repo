@@ -1,3 +1,3 @@
 # dm-repo
 
-This is my firt repo
+This is my first repo
